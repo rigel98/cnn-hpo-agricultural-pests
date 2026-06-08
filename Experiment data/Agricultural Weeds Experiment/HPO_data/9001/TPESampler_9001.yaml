@@ -1,0 +1,5 @@
+dense_layer_size: 256
+dropout_rate: 0.3990186580071179
+freezing_ratio: 0.7205425095699903
+learning_rate: 0.00011886715596772743
+num_dense_layers: 1

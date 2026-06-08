@@ -1,0 +1,5 @@
+Metric,Statistic,P-value,Significant
+Accuracy,14.0,0.193359375,No
+Precision,12.0,0.130859375,No
+Recall,19.0,0.431640625,No
+F1-score,14.0,0.193359375,No
